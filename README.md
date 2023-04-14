@@ -1,7 +1,7 @@
-Problem 1
+# Problem 1
 Problem 1 was not provided due to implementation issues. 
 
-Problem 2
+# Problem 2
 Usage:
 - javac mars.java
 - java mars
